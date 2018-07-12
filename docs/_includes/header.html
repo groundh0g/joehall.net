@@ -1,0 +1,73 @@
+{% include read-config.liquid %}
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary navbar-nav {% if config.navbar.fixed %}fixed-top{% endif%}">
+  {% if config.navbar.container %}<div class="container">{% endif %}
+  <a class="navbar-brand" href='{{ "/" | absolute_path }}'>{{ config.metadata.title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <!--&lt;!&ndash;<li class="nav-item active">&ndash;&gt;-->
+        <!--&lt;!&ndash;<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>&ndash;&gt;-->
+      <!--&lt;!&ndash;</li>&ndash;&gt;-->
+      <li class="nav-item">
+        <a class="nav-link" href='{{ "/blog" | relative_url }}'>Blog</a>
+      </li>
+    </ul>
+    <ul class="navbar-nav d-flex justify-content-end">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Social Media
+        </a>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://twitter.com/groundh0g" target="_blank"><i class="fa fa-twitter"></i> &nbsp;&nbsp;groundh0g</a>
+          <a class="dropdown-item" href="https://facebook.com/groundh0g" target="_blank"><i class="fa fa-facebook-square"></i> &nbsp;&nbsp;groundh0g</a>
+          <a class="dropdown-item" href="https://google.com/+groundh0g" target="_blank"><i class="fa fa-google-plus-square"></i> &nbsp;&nbsp;groundh0g</a>
+          <a class="dropdown-item" href="https://www.linkedin.com/in/groundh0g/" target="_blank"><i class="fa fa-linkedin"></i> &nbsp;&nbsp;groundh0g</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://github.com/groundh0g" target="_blank"><i class="fa fa-github"></i> &nbsp;&nbsp;groundh0g</a>
+          <a class="dropdown-item" href="https://bitbucket.org/groundh0g/" target="_blank"><i class="fa fa-bitbucket"></i> &nbsp;&nbsp;groundh0g</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          My Other Sites
+        </a>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="http://fauxcabulary.org/" target="_blank"><strong>Fauxcabulary.org</strong> <small>- Fake definitions. Real funny.</small></a>
+          <a class="dropdown-item" href="http://moreoncode.com/" target="_blank"><strong>MoreOnCode.com</strong> <small>- Half tech. Halfwit.</small></a>
+          <a class="dropdown-item" href="http://jekyllfaces.com/" target="_blank"><strong>JekyllFaces.com</strong> <small>- Hyde the scary parts.</small></a>
+          <a class="dropdown-item" href="http://gamedevutils.com/" target="_blank"><strong>GameDevUtils.com</strong> <small>- Tools for #gamedev enthusiasts.</small></a>
+          <!--<div class="dropdown-divider"></div>-->
+          <!--<a class="dropdown-item" href="#">Something else here</a>-->
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          My Friends' Sites
+        </a>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="http://lanierconsulting.net/" target="_blank"><strong>LanierConsulting.net</strong> <small>- Glenn E. Lanier, II</small></a>
+          <a class="dropdown-item" href="http://www.hiive.com/" target="_blank"><strong>Hiive.com</strong> <small>- Andrew Rollings</small></a>
+          <a class="dropdown-item" href="http://object-mechanics.com/" target="_blank"><strong>Object-Mechanics.com</strong> <small>- Steven A. Lowe</small></a>
+          <a class="dropdown-item" href="http://rwallaceconsulting.com/" target="_blank"><strong>RWallaceConsulting.com</strong> <small>- Robert Wallace</small></a>
+          <a class="dropdown-item" href="http://scottescue.com/" target="_blank"><strong>ScottEscue.com</strong> <small>- Scott Escue</small></a>
+        </div>
+      </li>
+      <!--<li class="nav-item">-->
+        <!--<a class="nav-link disabled" href="#">Disabled</a>-->
+      <!--</li>-->
+    </ul>
+    <!--<form class="form-inline my-2 my-lg-0" method="get" action='{{ "/search.html" | relative_path | append: "?q=joe+hall" }}'>-->
+      <!--<div>-->
+      <!--<input class="form-control mr-sm-2 typeahead" type="text" id="txtSearch" placeholder="Search" aria-label="Search">-->
+      <!--</div>-->
+      <!--<input id="hidSearch" type="hidden" name="q" value="joe hall" />-->
+      <!--<button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>-->
+    <!--</form>-->
+  </div>
+
+  {% if config.navbar.container %}</div>{% endif %}
+</nav>

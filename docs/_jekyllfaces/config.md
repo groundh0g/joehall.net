@@ -4,14 +4,11 @@ metadata:
   title: JoeHall<small><small>.net</small></small>
   tagline: The Jekyll helper. We Hyde the scary parts.
   description: > # Description for the site ...
-    Inspired by JekyllBootstrap [plusjade/jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap){:target="_blank"}, JekyllFaces [groundh0g/jekyllfaces](https://github.com/groundh0g/jekyllfaces){:target="_blank"}
-    is built from the ground up to support [Jekyll 3.7.x](https://github.com/jekyll/jekyll/releases/tag/v3.7.3){:target="_blank"} and [Bootstrap 4.1.x](https://getbootstrap.com/docs/4.1/getting-started/introduction/){:target="_blank"},
-    along with support for [Bootswatch's free themes](https://bootswatch.com/){:target="_blank"}, all while targeting the dependencies of [GitHub Pages](https://help.github.com/articles/what-is-github-pages/){:target="_blank"},
-    using the GitHub Pages [approved dependencies](https://pages.github.com/versions/){:target="_blank"}.
+    The launching point for all things Joe Hall. My personal and professional musings.
   legal: # used for privacy policy, terms of use, etc ...
-    #company:      # {metadata.title} when blank
-    #website:      # http://{metadata.title}.com when blank
-    #jurisdiction: # e.g. Georgia, "United States" when blank
+    #company: Joe Hall  # {metadata.title} when blank
+    #website: http://joehall.net/  # http://{metadata.title}.com when blank
+    #jurisdiction: Georgia  # e.g. Georgia, "United States" when blank
   lang: en
 
 customize:

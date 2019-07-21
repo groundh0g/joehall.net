@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/groundh0g
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joehall.net
+  * I am groundh0g (https://keybase.io/groundh0g) on keybase.
+  * I have a public key ASBMa-UnlhomjMX5GR7jZEiVEbJT6EufopJ92tHGK0H_xQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204c6be527961a268cc5f9191ee364489511b253e84b9fa2927ddad1c62b41ffc50a",
+      "host": "keybase.io",
+      "kid": "01204c6be527961a268cc5f9191ee364489511b253e84b9fa2927ddad1c62b41ffc50a",
+      "uid": "42b9d072a291266accf01a07b6b93019",
+      "username": "groundh0g"
+    },
+    "merkle_root": {
+      "ctime": 1563732612,
+      "hash": "d67428abb710eae8e45209034e39a2967e9c466051771c221404d39da78ab917841c0b9a200ed3a92068a5fc613920625ceebd634f109dbe8c22022f7f291525",
+      "hash_meta": "8575f7663a1c6bafbfd883a65afede7f80556764eb52ec22d6388310024805c5",
+      "seqno": 5816806
+    },
+    "service": {
+      "entropy": "CZ2gXzRMwjpkTQ/FWuMhH6o4",
+      "hostname": "joehall.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563732656,
+  "expire_in": 504576000,
+  "prev": "d2f1b292b1d054be9b9eb6408eb741b5126169c8544aabdf99e5a52a586a09e3",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTGvlJ5YaJozF+Rke42RIlRGyU+hLn6KSfdrRxitB/8UKp3BheWxvYWTESpcCB8Qg0vGykrHQVL6bnrZAjrdBtRJhachUSqvfmeWlKlhqCePEIEn7RatXm2Dji/7O/34UN6mvlO5S02ijRzDvdp+48Q1BAgHCo3NpZ8RAh0jC9DT4cAqsW116F/009Tq9JpwEWtm6Qy2AxNs1aD+G0lLqZgwHXCcgwOdLeGS9yVWcoUj+sFG/fSlcob7GCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOpaJ8/hTqimXgJgvqShxAjIq7cYYEJA/k6FZJ09fbO8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/groundh0g
+
+==================================================================

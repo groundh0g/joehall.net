@@ -11,7 +11,7 @@ I've seen the value on my current project, though. I'm taking the opposite stanc
 
 Using a strongly-typed language like TypeScript makes a lot of that code unnecessary, though. If designed properly, the compiler will ensure that a parameter for your method isn't null, or empty, or undefined, or of the wrong type. 
 
-ßIf a library you use catches exceptions and only returns valid values (some of which indicate failure), then trying to catch errors that will never occur is just adding more unreferenced code. There are other examples, but the basic idea is that I'm using code coverage to keep myself from writing dead code. 100% coverage would be ideal, but I don't want to satisfy a test without evaluating why it was failing in the first place.
+If a library you use catches exceptions and only returns valid values (some of which indicate failure), then trying to catch errors that will never occur is just adding more unreferenced code. There are other examples, but the basic idea is that I'm using code coverage to keep myself from writing dead code. 100% coverage would be ideal, but I don't want to satisfy a test without evaluating why it was failing in the first place.
 
 Of course, if I were truly following TDD principles, I'd never write dead, defensive code paths in the first place. I've been coding for 30+ years, but I still have a lot of growing to do as a developer. That's part of what draws me to the craft. You're always learning.
 

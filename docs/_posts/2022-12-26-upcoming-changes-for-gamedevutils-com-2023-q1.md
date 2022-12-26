@@ -7,7 +7,7 @@ author: groundh0g
 
 I've been working on my 2016 sprite packing tool (again) recently. [The current version](http://gamedevutils.com/) is web-only, static HTML so that your assets stay on your machine. I don't need to see them, or pay for the server resources to process them. It's cross-browser and cross-platform, so you can work on whatever platform suits your project best. 
 
-<img src='{{ "/assets/images/blog/2016-gamedevutils-sprites.png" | relative_url }}' style="width:512px;" />
+<img src='{{ "/assets/images/blog/2016-gamedevutils-sheets.png" | relative_url }}' style="width:512px;" />
 
 One cool feature of the existing tool is that the project file contains everything you need to build your sprite sheet. This includes project options and all project assets. Sharing the project is as easy as handing the (single) file to a teammate. This is a goal shared by all future releases.
 

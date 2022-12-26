@@ -5,7 +5,7 @@ categories: family
 author: groundh0g
 ---
 
-I've been working on my 2016 sprite packing tool (again) recently. [The current version](http://gamedevutils.com/) is web-only, static HTML so that your assets stay on your machine. I don't need to see them, or pay for the server resources to process them. It's cross-browser and cross-platform, so you can work on whatever platform suits your project best. 
+I've been working on my 2016 sprite packing tool (again) recently. The current version is web-only, static HTML so that your assets stay on your machine. I don't need to see them, or pay for the server resources to process them. It's cross-browser and cross-platform, so you can work on whatever platform suits your project best. To see a list of the current features, click the link to [the current version](http://gamedevutils.com/), then click the "Show Features" button, next to the "Sprite Sheets" tool.
 
 <img src='{{ "/assets/images/blog/2016-gamedevutils-sheets.png" | relative_url }}' style="width:512px;" />
 

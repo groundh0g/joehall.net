@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upcoming Changes for GameDevUtils.com, 2023/Q1"
-categories: family
+categories: gamedev
 author: groundh0g
 ---
 

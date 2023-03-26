@@ -15,6 +15,6 @@ Wordle's method of playing against your friends is that you and your friends hav
 
 <img src='{{ "/assets/images/blog/word-nerd-shared-games.png" | relative_url }}' style="width:512px;" />
 
-Word Nerd was designed mmobile-first, so it should work well on phone and desktop. There are even desktop applications for Windows and MacOS (not yet released).
+Word Nerd was designed mobile-first, so it should work well on phone and desktop. There are even desktop applications for Windows and MacOS (not yet released).
 
 ![Joe's Signature]({{ "/assets/images/signature-joe.png" | relative_url }})

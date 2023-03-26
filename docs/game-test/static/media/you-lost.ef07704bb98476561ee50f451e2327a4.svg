@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 512 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" xmlspace="preserve" xmlnsserif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 512 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsxlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlnsserif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,0.390691,0,0)">
         <rect id="Artboard1" x="0" y="0" width="512" height="512" style="fill:none;"/>
         <g id="Artboard11" serifid="Artboard1">
@@ -70,6 +70,9 @@
                         <g transform="matrix(1,0,0,1,-6.47986,-68.4313)">
                             <g transform="matrix(0.962164,0,0,0.962164,23.0968,7.75963)">
                                 <circle cx="406.384" cy="298.95" r="67.435" style="fill:rgb(255,212,121);"/>
+                            </g>
+                            <g transform="matrix(1,0,0,1,-3.75946,198.759)">
+                                <path d="M417.864,32.144L417.864,122.364L442.238,132.092L479.118,115.39C479.118,115.39 486.63,85.505 471.439,61.693C464.948,51.519 444.116,37.941 444.116,37.941" style="fill:rgb(255,38,0);fill-opacity:0.5;"/>
                             </g>
                             <g transform="matrix(1,0,0,1,0,166.838)">
                                 <g transform="matrix(132,0,0,132,330.316,173.284)">

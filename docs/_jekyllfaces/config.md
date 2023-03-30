@@ -72,8 +72,8 @@ fonticons:
   octicons:    false # one of: false | local | cdn
 
 analytics:
-  provider: false # one of: false | google | matomo | getclicky | mixpanel | gauges 
-  siteid: UA-0000000-00
+  provider: google # one of: false | google | matomo | getclicky | mixpanel | gauges 
+  siteid: G-H6VZHT5JM5
   baseurl: # only used by matomo; ex: mysite.com/piwik
 
 comments:

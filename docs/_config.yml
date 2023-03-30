@@ -225,7 +225,7 @@ jfaces:
 #    gauges :
 #        site_id : 'SITE ID'
 #    google :
-#        tracking_id : 'UA-123-12'
+#        tracking_id : 'G-123456789'
 #    googleLegacy :
 #        tracking_id : 'UA-123-12'
 #    getclicky :

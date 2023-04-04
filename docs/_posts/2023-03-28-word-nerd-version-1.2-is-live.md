@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Word Nerd v1.1.0 Released"
+title:  "Word Nerd v1.2.0 Released"
 categories: gamedev
 author: groundh0g
 ---

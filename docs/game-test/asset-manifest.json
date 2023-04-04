@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/game-test/static/css/main.9293f5b4.css",
-    "main.js": "/game-test/static/js/main.708a1e8c.js",
+    "main.css": "/game-test/static/css/main.3dfd6aaa.css",
+    "main.js": "/game-test/static/js/main.fef43e0e.js",
     "static/js/496.3f3b0613.chunk.js": "/game-test/static/js/496.3f3b0613.chunk.js",
     "static/media/fa-solid-900.ttf": "/game-test/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/game-test/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -15,12 +15,12 @@
     "static/media/logo.svg": "/game-test/static/media/logo.6e6609b082ec88f9d80e6e0c7f131d69.svg",
     "static/media/fa-v4compatibility.woff2": "/game-test/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/game-test/index.html",
-    "main.9293f5b4.css.map": "/game-test/static/css/main.9293f5b4.css.map",
-    "main.708a1e8c.js.map": "/game-test/static/js/main.708a1e8c.js.map",
+    "main.3dfd6aaa.css.map": "/game-test/static/css/main.3dfd6aaa.css.map",
+    "main.fef43e0e.js.map": "/game-test/static/js/main.fef43e0e.js.map",
     "496.3f3b0613.chunk.js.map": "/game-test/static/js/496.3f3b0613.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9293f5b4.css",
-    "static/js/main.708a1e8c.js"
+    "static/css/main.3dfd6aaa.css",
+    "static/js/main.fef43e0e.js"
   ]
 }

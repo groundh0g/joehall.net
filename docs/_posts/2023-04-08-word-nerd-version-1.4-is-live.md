@@ -7,8 +7,9 @@ author: groundh0g
 
 [Word Nerd!](https://joehall.net/game-test/) has been updated to reflect the great input that I've received from the early adopters.
 
-### Version 1.4.2, 08Apr2023
+### Version 1.4.3, 12Apr2023
 
+- adds fixes for highlighting yellow/green tiles
 - adds word definiton to game over screen
 - adds analytics reset to menu
 - adds fixes for heat map on analytics screen

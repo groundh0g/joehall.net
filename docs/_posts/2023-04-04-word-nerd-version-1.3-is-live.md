@@ -5,7 +5,7 @@ categories: gamedev
 author: groundh0g
 ---
 
-[Word Nerd!](https://joehall.net/game-test/) has been updated to reflect the great input that I've received from the early adopters.
+[Word Nerd!](https://games.joehall.net/wordnerd) has been updated to reflect the great input that I've received from the early adopters.
 
 ### Version 1.3.0, 04Apr2023
 

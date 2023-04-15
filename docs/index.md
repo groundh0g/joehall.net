@@ -4,17 +4,19 @@ layout: default
 
 <br/>
 <div class="row">
-  <div class="col-md-6"><img style="width:100%" src='{{ "assets/images/joe.png" | relative_path }}'/></div>
-  <div class="col-md-6" style="text-align: center">
-    <br/><br/>
-    <div style="font-size: 5.0em" id="divGreeting" title="Hello!">hello</div>
-    <div style="font-size: 2.0em">I'm Joseph Hall.</div>
-    <div style="font-size: 2.0em">a.k.a. <span style="font-family: 'Source Code Pro', monospace;">groundh0g</span></div>
-    <div style="font-size: 1.0em">&nbsp;</div>
-    <div style="font-size: 1.0em">Programmer. Writer. Artist. Teacher.</div>
-    <div style="font-size: 1.0em">Juggler. Musician. Punster. Dad. Husband.</div>
-    <div style="font-size: 1.0em">ex-ThoughtWorks. ex-IBM. ex-Microsoft.</div>
-    <br/><br/>
+  <div class="col-md-6"><img class="home-img" src='{{ "assets/images/joe.png" | relative_path }}'/></div>
+  <div class="col-md-6" class="home-text">
+    <div class="home-greet" id="divGreeting" title="Hello!">hello</div>
+    <div class="home-moniker">I'm Joseph Hall.</div>
+    <div class="home-moniker">a.k.a. <span style="font-family: 'Source Code Pro', monospace;">groundh0g</span></div>
+    <div class="home-bio">&nbsp;</div>
+    <div class="home-bio">Programmer. Writer. Artist. Teacher.</div>
+    <div class="home-bio">Juggler. Musician. Punster. Dad. Husband.</div>
+    <div class="home-bio">Thoughtworker. ex-IBMer. ex-Microsoftie.</div>
+    <div class="home-bio">
+        <br/>
+        <br/>
+    </div>
   </div>
 </div>
 

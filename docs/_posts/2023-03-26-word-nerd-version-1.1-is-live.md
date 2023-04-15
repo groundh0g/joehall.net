@@ -7,7 +7,7 @@ author: groundh0g
 
 I don't know about you, but I love the game, Wordle, hosted by the NY Times. Maybe "obsessed" is a better word. It's so dang addicting. And it's equally as frustrating since you can only play once a day. So, I decided to make a clone of it, with a few new features.
 
-Enter "[Word Nerd!](https://joehall.net/game-test/)", stage left. It has configurable levels of difficulty. It supports themeing and high-contrast modes (like Wordle). And it allows you to use the scrabble-like word lists for validation (limited to 5-letter words, minus a simple naughty word filter).
+Enter "[Word Nerd!](https://games.joehall.net/wordnerd)", stage left. It has configurable levels of difficulty. It supports themeing and high-contrast modes (like Wordle). And it allows you to use the scrabble-like word lists for validation (limited to 5-letter words, minus a simple naughty word filter).
 
 <img src='{{ "/assets/images/blog/word-nerd-themes.png" | relative_url }}' style="width:512px;" />
 

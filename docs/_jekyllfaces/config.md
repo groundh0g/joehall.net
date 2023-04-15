@@ -63,7 +63,7 @@ search:
   #contributors: true # search contributors page? {build.contributors} when blank
 
 fonticons:
-  fontawesome: cdn   # one of: false | local | cdn
+  fontawesome: local # one of: false | local | cdn
   foundation:  false # one of: false | local | cdn
   glyphicons:  false # one of: false | local
   icomoon:     false # one of: false | local | cdn

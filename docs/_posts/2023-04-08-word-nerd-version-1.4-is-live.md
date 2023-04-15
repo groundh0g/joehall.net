@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Word Nerd v1.4.2 Released"
+title:  "Word Nerd v1.4.3 Released"
 categories: gamedev
 author: groundh0g
 ---
 
-[Word Nerd!](https://joehall.net/game-test/) has been updated to reflect the great input that I've received from the early adopters.
+[Word Nerd!](https://games.joehall.net/wordnerd/) has been updated to reflect the great input that I've received from the early adopters. And it has been moved to it's new "forever" home.
 
 ### Version 1.4.3, 12Apr2023
 

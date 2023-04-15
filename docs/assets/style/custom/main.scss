@@ -73,3 +73,44 @@
 .tt-suggestion p {
   margin: 0;
 }
+
+.navbar-brand,
+#navbarSupportedContent ul {
+  margin-left: 10px;
+}
+
+.home-img {
+  width: 100%;
+}
+
+.home-img {
+  width: 100%;
+}
+
+.home-text {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.home-greet {
+  padding-top: 3vmin;
+  font-size: calc(2em + 5vmin);
+  font-weight: bolder;
+}
+
+.home-moniker {
+  font-size: calc(1.5em + 1vmin);
+  font-weight: bolder;
+}
+
+.home-bio {
+  font-size: calc(1em + 0.3vmin);
+  font-weight: normal;
+}
+/*
+<div class="home-bio" xstyle="font-size: 5vmin">&nbsp;</div>
+<div class="home-bio" xstyle="font-size: 4vmin;">Programmer. Writer. Artist. Teacher.</div>
+<div class="home-bio" xstyle="font-size: 4vmin">Juggler. Musician. Punster. Dad. Husband.</div>
+<div class="home-bio" xstyle="font-size: 4vmin">Thoughtworker. ex-IBMer. ex-Microsoftie.</div>
+<br/><br/>
+ */

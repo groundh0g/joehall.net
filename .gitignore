@@ -167,3 +167,6 @@ typings/
 
 # next.js build output
 .next
+
+# macOS files
+.DS_Store

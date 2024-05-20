@@ -21,7 +21,14 @@ layout: default
 </div>
 
 <script type="text/javascript">
-var greetings = ['hello', 'howdy', 'greetz', '你好', 'aloha', 'hallå', 'नमस्ते', 'hallo', 'olá', '여보세요', 'buna', 'שלום', 'bonjour', 'مرحبا', 'cześć', 'Բարեւ', 'unjani', 'как дела', 'ਤੁਸੀ ਕਿਵੇਂ ਹੋ', 'salve', 'ciao', 'sawubona'];
+var greetings = [
+    'hello', 'howdy', 'greetz', '你好', 'aloha', 'hola', 'hallå', 'नमस्ते', 'hallo', 
+    'olá', '여보세요', 'buna', 'שלום', 'bonjour', 'مرحبا', 'cześć', 'Բարեւ', 'unjani', 
+    'как дела', 'ਤੁਸੀ ਕਿਵੇਂ ਹੋ', 'salve', 'ciao', 'sawubona', 
+    'Привет', 'こんにちは', '你好', '안녕하세요', 'jambo', 'Γεια σας', 'hej', 'hei', 'merhaba', 'ahoj', 'szia', 
+    'สวัสดี', 'xin chào', 'kumusta', '্যালো', 'வணக்கம்', 'హలో', 'ہیلو' ,'سلام', 'kedu',
+    'bawo', 'awubona', 'molo', 'kia ora', 'talofa', 'bula' ]; 
+
 var iHello = -1;
 
 var getText = function() {
